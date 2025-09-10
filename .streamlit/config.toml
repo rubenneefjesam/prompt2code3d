@@ -1,0 +1,7 @@
+[theme]
+base = "light"                       # of "dark"
+primaryColor = "#16A34A"             # groen-accent (tailwind green-600)
+backgroundColor = "#F8FAFC"          # lichte achtergrond
+secondaryBackgroundColor = "#ECFDF5" # zacht groen/wit kaartjes
+textColor = "#0F172A"                # bijna zwart
+font = "sans serif"
